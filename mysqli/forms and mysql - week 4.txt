@@ -1,0 +1,28 @@
+PHP and MySQLi
+
+Form Validation + Rules
+https://www.w3schools.com/php/php_form_validation.asp
+
+submitted
+<form method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>">
+
+
+
+forms required
+https://www.w3schools.com/php/php_form_required.asp
+
+email and regular expressions
+https://www.w3schools.com/php/php_form_url_email.asp
+
+complete validation
+https://www.w3schools.com/php/php_form_complete.asp
+
+
+
+Task 
+Turn validations into re-usable functions
+
+
+--week 5
+add in shortcut code for validation function
+
