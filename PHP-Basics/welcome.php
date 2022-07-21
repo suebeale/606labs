@@ -1,9 +1,16 @@
 <?php
 echo "Welcome to XAMPP PHP training<br />";
 
+
+// This is a single-line comment
+
+// my variables
 $myName = 'Sue Pearson';
 $myCourse = 'COMP606';
 
+# This is also a single-line comment
+
+# printing the txt to the screen
 echo 'Welcome to ' . $myCourse . '. You tutor is ' . $myName;
 exit;
 ?>
